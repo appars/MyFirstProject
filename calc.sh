@@ -1,3 +1,4 @@
+#This program for calc
 sum=0
 echo " Enter one no."
 read n1
